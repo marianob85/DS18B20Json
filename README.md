@@ -1,0 +1,1 @@
+Print temperature from DS18B20 sensor as json array
